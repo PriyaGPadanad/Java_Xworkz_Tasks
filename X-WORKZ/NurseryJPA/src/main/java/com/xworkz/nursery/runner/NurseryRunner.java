@@ -17,6 +17,7 @@ public class NurseryRunner {
         NurseryEnitity nurseryEnitity = new NurseryEnitity(2, "pushpa Nursery", "puspa");
         em.persist(nurseryEnitity);
         entityTransaction.commit();
+        System.out.println("Nursery is Running");
     }
 
 
