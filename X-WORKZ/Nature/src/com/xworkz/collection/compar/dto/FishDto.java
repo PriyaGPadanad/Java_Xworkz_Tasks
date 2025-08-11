@@ -19,4 +19,5 @@ public class FishDto implements Comparable<FishDto> {
     public int compareTo(FishDto o) {
         return Integer.compare(o.getPrice(), this.getPrice());
     }
+
 }

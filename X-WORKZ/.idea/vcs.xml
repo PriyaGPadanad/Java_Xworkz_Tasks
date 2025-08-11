@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Intership_Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_Workspace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_Workspace/ChargerJPA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_Workspace/Java_Spring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_Workspace/PaintJPA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_Workspace/PoliceJPA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_Workspace/PotJPA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_Workspace/TrafficJPA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_Workspace/TrolleySpring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mini-projects" vcs="Git" />
+  </component>
+</project>
