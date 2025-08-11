@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f08e79e6-fcea-4842-aea8-30e7f37111a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ActorServlet/src/ActorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorServlet/src/com/xworkz/actor/Actor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorServlet/src/com/xworkz/actor/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airlines/static/airIndia.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/libraries/mysql_connector_j_8_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/xworkz/bank/constant/DBConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/xworkz/bank/dto/BankDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/xworkz/bank/repository/BankRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/xworkz/bank/repository/BankRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/xworkz/bank/service/BankService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/xworkz/bank/service/BankServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/xworkz/bank/servlet/BankServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/static/bank.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/static/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/static/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplaintWebApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplaintWebApp/src/com/xworkz/complaint/servlet/complaintServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/com/xworkz/exception/EventCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/com/xworkz/exception/EventRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food/src/com/xworkz/food/constant/DBConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food/src/com/xworkz/food/dto/FoodDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food/src/com/xworkz/food/repository/FoodRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food/src/com/xworkz/food/repository/FoodRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food/src/com/xworkz/food/service/FoodService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food/src/com/xworkz/food/service/FoodServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food/src/com/xworkz/food/servlet/FoodServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food/static/food.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food/static/foodResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food/static/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/.idea/libraries/mysql_connector_j_8_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/src/com/xworkz/insurance/dto/InsuranceDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/src/com/xworkz/insurance/repository/InsuranceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/src/com/xworkz/insurance/repository/InsuranceRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/src/com/xworkz/insurance/service/InsuranceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/src/com/xworkz/insurance/service/InsuranceSeviceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/src/com/xworkz/insurance/servlet/InsuranceServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/static/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/static/insurance.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insurance/static/insuranceResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginApp/src/com/xworkz/login/constant/DBConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginApp/src/com/xworkz/login/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginApp/src/com/xworkz/login/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginApp/src/com/xworkz/login/repository/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginApp/src/com/xworkz/login/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginApp/src/com/xworkz/login/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginApp/src/com/xworkz/login/servlet/SignInServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginApp/src/com/xworkz/login/servlet/SignUpServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginApp/static/Home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginApp/static/SignIn.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginApp/static/SignUp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginApp/static/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/.idea/libraries/mysql_connector_j_8_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/src/com/xworkz/medical/constant/DBConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/src/com/xworkz/medical/dto/MedicalDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/src/com/xworkz/medical/repository/MedicalRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/src/com/xworkz/medical/repository/MedicalRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/src/com/xworkz/medical/service/MedicalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/src/com/xworkz/medical/service/MedicalServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/src/com/xworkz/medical/servlet/MedicalServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/static/confirmation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/static/consultation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicalConsultation/static/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock/src/com/xworkz/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock/src/com/xworkz/Encapsulation/EncapsulationRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock/src/com/xworkz/Leaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock/src/com/xworkz/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/src/com/xworkz/string/internal/DataTypeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineMedicalConsultation/src/com/xworkz/medical/constant/DBConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineMedicalConsultation/src/com/xworkz/medical/dto/MedicalDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineMedicalConsultation/src/com/xworkz/medical/repository/MedicalRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineMedicalConsultation/src/com/xworkz/medical/repository/MedicalRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineMedicalConsultation/src/com/xworkz/medical/service/MedicalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineMedicalConsultation/src/com/xworkz/medical/service/MedicalServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineMedicalConsultation/src/com/xworkz/medical/servlet/MedicalServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineMedicalConsultation/static/confirmation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineMedicalConsultation/static/consultation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineMedicalConsultation/static/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Places/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Places/src/com/xworkz/places/constant/DBConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Places/src/com/xworkz/places/dto/PlacesDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Places/src/com/xworkz/places/repository/PlacesRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Places/src/com/xworkz/places/repository/PlacesRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Places/src/com/xworkz/places/service/PlacesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Places/src/com/xworkz/places/service/PlacesServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Places/src/com/xworkz/places/servlet/PlacesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Places/static/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Places/static/places.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Places/static/placesResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/com/xworkz/practice/q1/PalindromeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/com/xworkz/practice/q1/PalindromeCheckRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/.idea/libraries/mysql_connector_j_8_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/src/com/xworkz/priya/dto/PriyaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/src/com/xworkz/priya/repository/PriyaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/src/com/xworkz/priya/repository/PriyaRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/src/com/xworkz/priya/service/PriyaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/src/com/xworkz/priya/service/PriyaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/src/com/xworkz/priya/servlet/IndexServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/src/com/xworkz/priya/servlet/PriyaServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/static/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/static/priya.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya/static/priyaResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletRequest/src/BengaluruServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletRequest/src/CountryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletRequest/src/FuelServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletRequest/src/HotelServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletRequest/src/MeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletRequest/src/MovieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletRequest/src/TempleServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletRequest/src/XworkzServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletRequest/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletRequest/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletRequest/web/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/.idea/libraries/mysql_connector_j_8_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/constant/DBConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/dto/StudentDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/repository/StudentRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/service/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/servlet/StudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/static/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/static/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/static/studentResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/.idea/libraries/mysql_connector_j_8_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/src/com/xworkz/vehicle/constant/DBConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/src/com/xworkz/vehicle/dto/VehicleDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/src/com/xworkz/vehicle/repository/VehicleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/src/com/xworkz/vehicle/repository/VehicleRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/src/com/xworkz/vehicle/service/VehicleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/src/com/xworkz/vehicle/service/VehicleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/src/com/xworkz/vehicle/servlet/VehicleServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/static/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/static/vehicle.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/static/vehicleResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weatherr/src/com/xworkz/weatherr/dto/WeatherrDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weatherr/static/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weatherr/static/weatherr.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weatherr/static/weatherrResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../general/src/com/xworkz/general/repository/BirthRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../general/src/com/xworkz/general/repository/BirthRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../general/src/com/xworkz/general/service/BirthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../general/src/com/xworkz/general/service/BirthServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sand/src/com/xworkz/brinjal/servlet/GunServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sand/src/com/xworkz/brinjal/servlet/shot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Airlines/src/com/xworkz/airlines/dto/AirlinesDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Airlines/src/com/xworkz/airlines/dto/AirlinesDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Airlines/src/com/xworkz/airlines/repository/AirlinesRepositoryImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Airlines/src/com/xworkz/airlines/repository/AirlinesRepositoryImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Airlines/src/com/xworkz/airlines/servlet/AirlinesServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Airlines/src/com/xworkz/airlines/servlet/AirlinesServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Airlines/static/airlines.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Airlines/static/airlines.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dmart/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dmart/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dmart/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dmart/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dmart/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dmart/Dmart.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dmart/src/com/xworkz/Dmart/product/ProductInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dmart/src/com/xworkz/Dmart/runner/ProductRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dmart/src/com/xworkz/cw/Beer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dmart/src/com/xworkz/cw/Tshirt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dmart/src/com/xworkz/cw/TshirtRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../July/src/com/xworkz/july/Dryfruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../July/src/com/xworkz/july/Dryfruits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../July/src/com/xworkz/july/Fruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../July/src/com/xworkz/july/Fruits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../July/src/com/xworkz/july/States.java" beforeDir="false" afterPath="$PROJECT_DIR$/../July/src/com/xworkz/july/States.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mobile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mobile/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mobile/static/mobile.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Mobile/static/mobile.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mobile/static/mobileResult.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Mobile/static/mobileResult.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/src/com/xworkz/interfaceusage/runner/InterfaceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Object/src/com/xworkz/interfaceusage/runner/InterfaceMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../general/src/com/xworkz/general/servlet/JobApplicationServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../general/src/com/xworkz/general/servlet/JobApplicationServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../general/static/deathCertificate.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../general/static/deathCertificate.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2yHbE9p5cHlHJ0YUf7P9rq18Onf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Intel/java_xworkz/weather/src/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f08e79e6-fcea-4842-aea8-30e7f37111a5" name="Changes" comment="" />
+      <created>1749494336565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749494336565</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
