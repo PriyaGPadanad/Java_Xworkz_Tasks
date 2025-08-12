@@ -120,6 +120,16 @@ public  class PoliceRepositoryImpl implements PoliceRepository {
     }
 
     @Override
+    public List<PoliceEntity> getPoliceByAge() {
+        return null;
+    }
+
+    @Override
+    public List<PoliceEntity> getAgeBetween() {
+        return null;
+    }
+
+    @Override
     public List<PoliceEntity> getPoliceByAgeAbove25() {
         EntityManagerFactory factory = null;
         EntityManager manager = null;
@@ -285,6 +295,16 @@ public  class PoliceRepositoryImpl implements PoliceRepository {
             if (factory != null) factory.close();
         }
         return policeEntity;
+    }
+
+    @Override
+    public List<String> getNameByAge() {
+        return null;
+    }
+
+    @Override
+    public List<PoliceEntity> getNameAndPlaceAndEmailByAgeLessThan30() {
+        return null;
     }
 
     @Override
